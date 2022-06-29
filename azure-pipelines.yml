@@ -25,5 +25,5 @@ steps:
     includeRootFolder: false
 
 - task: PublishBuildArtifacts@1
-  displayName: 'Publish artifacts: drop'
+  displayName: 'Publish artifacts: built'
   
